@@ -1,0 +1,17 @@
+body {
+    font-family: fantasy;
+    line-height: 1.6;
+    color: darkblue;
+    background-color: rgb(255, 255, 255);
+}
+
+container {
+    width: 90%;
+    max-width: 1200px;
+}
+
+
+header {
+    background-color: bisque;
+    color: black;
+    padding-left: 20px;
